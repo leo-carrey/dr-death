@@ -143,20 +143,24 @@ Il est important de noter que **les données doivent être dans un format consom
 
 Power BI offre une variété de visualisations pour aider à représenter les données de manière significative. En voici quelques types : 
 
-* **Graphiques en aires :** Ce sont des graphiques en courbes dont la zone comprise entre l'axe et la ligne est remplie. Ils mettent en évidence l'ampleur du changement dans le temps et peuvent être utilisés pour attirer l'attention sur la tendance évolutive d'une valeur totale. 
+* ![](Pictures/graphique-aires.png) **Graphiques en aires :** Ce sont des graphiques en courbes dont la zone comprise entre l'axe et la ligne est remplie. Ils mettent en évidence l'ampleur du changement dans le temps et peuvent être utilisés pour attirer l'attention sur la tendance évolutive d'une valeur totale. 
 
-* **Graphiques à barres et histogrammes :** Ils sont idéaux pour comparer des valeurs spécifiques dans différentes catégories.
+* ![](Pictures/graphiques-barre-histogramme.png) **Graphiques à barres et histogrammes :** Ils sont idéaux pour comparer des valeurs spécifiques dans différentes catégories.
 
-* **Cartes :** Elles montrent un ou plusieurs points de données, un par ligne. 
+* ![](Pictures/cartes.png) **Cartes :** Elles montrent un ou plusieurs points de données, un par ligne. 
 
-* **Graphiques combinés :** Il associe un histogramme et un grapique en courbes. Cette combinaison permet de comparer plus rapidement les données. 
+* ![](Pictures/graphiques-combinés.png) **Graphiques combinés :** Il associe un histogramme et un grapique en courbes. Cette combinaison permet de comparer plus rapidement les données. 
 
-* **Arborescence hiérarchique :** Ce visuel permet de visualiser les données sur plusieurs dimensions. Il agrège automatiquement les données et permet d'explorer les dimensions dans n'importe quel ordre.
+* ![](Pictures/Arborescence.png) **Arborescence hiérarchique :** Ce visuel permet de visualiser les données sur plusieurs dimensions. Il agrège automatiquement les données et permet d'explorer les dimensions dans n'importe quel ordre.
 
-* **Graphiques en anneau :** Ils affichent la relation de parties par rapport à un tout.
+* ![](Pictures/graphique-anneaux.png) **Graphiques en anneau :** Ils affichent la relation de parties par rapport à un tout.
 
-* **Graphiques en entonnoir :** Ils permettent de visualiser un processus comprenant des étapes et des éléments qui passent de manière séquentielle d'une étape à la suivante.
+* ![](Pictures/graphique-entonnoire.png) **Graphiques en entonnoir :** Ils permettent de visualiser un processus comprenant des étapes et des éléments qui passent de manière séquentielle d'une étape à la suivante.
 
-* **Graphiques en jauge :** Ils sont utilisés pour afficher des proportions ou des parts de marché. 
+* ![](Pictures/Jauge.png) **Graphiques en jauge :** Ils sont utilisés pour afficher des proportions ou des parts de marché. 
+
+* ![](Pictures/nuage-points.png) **Nuages de points :** Ils sont utilisés pour représenter graphiquement des données généralement nombreuses, éventuellement interprétables par l'identification de [relations](https://fr.wikipedia.org/wiki/Relation), [répartitions](https://fr.wikipedia.org/wiki/R%C3%A9partition) plus ou moins homogènes, pouvant correspondre à l'application d'une [loi normale](https://fr.wikipedia.org/wiki/Loi_normale). 
+
+* ![](Pictures/graphique-secteur.png) **Graphique en secteur :** Utilisé pour illustrer la proportion numérique de différentes catégories.
 
 Ces visualisations peuvent être ajoutées à des rapports Power BI, spécifiées dans Questions et réponses, et épinglées à des tablaux de bord. 
