@@ -124,17 +124,17 @@ Power BI comprend également **deux autres éléments** :
 
 Power Bi permet de se connecter à une multitude de sources de données, en voici quelques exemples : 
 
-* **Fichiers plats :** Ce sont des fichiers de données structurées comme les fichiers Excel, CSV, XML, JSON, etc.
+* <img src="Pictures/fichiers-plats.png" alt="drawing" width="100"/> **Fichiers plats :** Ce sont des fichiers de données structurées comme les fichiers Excel, CSV, XML, JSON, etc.
 
-* **Base de données SQL :** SQL Server, Access, Oracle, IBM DB2, MySQL, PostgreSQL, Sybase, Teradata, SAP HANA, Amazon Redshift, Google BigQuery, etc.
+* <img src="Pictures/sql-db.jpg" alt="drawing" width="100"/> **Base de données SQL :** SQL Server, Access, Oracle, IBM DB2, MySQL, PostgreSQL, Sybase, Teradata, SAP HANA, Amazon Redshift, Google BigQuery, etc.
 
-* **Flux OData :** OData(Open Data Protocol) est un protocole ouvert permettant de consommer des données sur le web. Power BI peut se connecter à des services web utilisant ce protocole.
+* <img src="Pictures/odata.png" alt="drawing" width="100"/> **Flux OData :** OData(Open Data Protocol) est un protocole ouvert permettant de consommer des données sur le web. Power BI peut se connecter à des services web utilisant ce protocole.
 
-* **Plateforme Azure Cloud :** Power BI peut se connecter à divers services Azure tels que Azure SQL Databse, Azure Synapse Analytics, Azure Data Lake Storage, etc.
+* <img src="Pictures/azure-cloud.png" alt="drawing" width="100"/>  **Plateforme Azure Cloud :** Power BI peut se connecter à divers services Azure tels que Azure SQL Databse, Azure Synapse Analytics, Azure Data Lake Storage, etc.
 
-* **Services en ligne :** Power Bi peut se connecter à divers services en ligne tels que SharePoint Online, Dynalics 365, Saleforce, Google Analytics, etc.
+* <img src="Pictures/divers-services-ligne.webp" alt="drawing" width="100"/> **Services en ligne :** Power Bi peut se connecter à divers services en ligne tels que SharePoint Online, Dynalics 365, Saleforce, Google Analytics, etc.
 
-* **Autres sources de données :** Power BI peut également se connecter à d'autres sources de données telles que Hadoop, Exchange, Active Directory, etc.
+* <img src="Pictures/autres-source-données.jpg" alt="drawing" width="100"/> **Autres sources de données :** Power BI peut également se connecter à d'autres sources de données telles que Hadoop, Exchange, Active Directory, etc.
 
 Il est important de noter que **les données doivent être dans un format consommable** par le service Power BI. De plus, certaines sources de données peuvent nécessiter l'utilisation de Power BI Desktop ou des fonctionnalités avancées de requête de données et de modélisation dans Excel avant de pouvoir être utilisées dans le service Power BI. 
 
