@@ -68,19 +68,34 @@ Power BI comprend également **deux autres éléments** :
 ### **<p align="center">1.C - Avantages</p>**
 ---
 * Peut être utilisé aussi bien par des utilisateurs débutants qu'expérimentés. 
+
 * Tableaux de bord et rapports pré-conçus pour les solutions Saas.
+
 * Tableaux de bord mis à jour en temps réel.
+
 * Connexion aux sources de données fiable et sécurisée, aussi bien sur site que sur le Cloud.
+
 * Déploiement rapide, configuration hybride et environnement sécurisé.
+
 * Exploration de données en utilisant des requêtes en langage naturel.
+
 * Nombreuses fonctionnalités de visualisation de tableau de bord.
+
 * Intégration avec le coding en Python et R permettant de manipuler les visualisations.
+
 * Nombreuses options disponibles pour préparer et nettoyer les données avec Power Query qui est par ailleurs propulsé par l'IA et le Machine Learning.
+
 * Nombreuses mises à jour apportant de nouvelles fonctionnalités.
 ### **<p align="center">1.D - Inconvénients</p>**
 ---
-* Les tableaux de bord et les rapports ne peuvent être partagés qu'avec des personnes ayant des emails sur le même domaine.
-* Impossibilité de mélanger les données importées, les fichiers dépassant 1Go sont refusés. 
+* Formules rigides, il est possible de créer de nouvelles données avec des formules mais il y a des limites. Il existe également une instruction concaténer, mais elle ne combine que deux éléments. POur en conbiner d'avantage, il faut imbriquer les insctructions concaténées. Lorsque les rapports vont au-delà de simples visualisations, Power BI devient plus difficile à utiliser. DAX n'est pas le plus souple des langages, mais il permet une multitude de calculs personalisés. Cependant, les résultats de ces calculs ne peuvent pas toujours être bien traduits visuellement.
+
+* Capacité de traitement des données pour les versions gratuites limité, si elle est atteinte, il faut passer à la version payante.
+
+* Configuration des visuels limités. 
+
+* Interface utilisateur très volumineuse.
+
 
 ### **<p align="center">1.E - Principales fonctionnalités</p>**
 ---
@@ -140,7 +155,7 @@ Power BI offre une variété de visualisations pour aider à représenter les do
 
 * **Graphiques en anneau :** Ils affichent la relation de parties par rapport à un tout.
 
-* **Graphiques en entonnoir ** Ils permettent de visualiser un processus comprenant des étapes et des éléments qui passent de manière séquentielle d'une étape à la suivante.
+* **Graphiques en entonnoir :** Ils permettent de visualiser un processus comprenant des étapes et des éléments qui passent de manière séquentielle d'une étape à la suivante.
 
 * **Graphiques en jauge :** Ils sont utilisés pour afficher des proportions ou des parts de marché. 
 
