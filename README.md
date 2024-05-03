@@ -35,6 +35,7 @@
 ---
 ---
 ![Power-BI-Cover](Pictures/power-bi-cover.jpg)
+![Power-BI-Cover](Pictures/power-bi-cover.jpg)
 
 
 ## **<p align="center">1. Veille sur Microsoft Power BI</p>**
@@ -106,6 +107,9 @@ Power BI comprend également **deux autres éléments** :
 
 ### **<p align="center">1.F - Les différentes sources de données utilisables</p>**
 ---
+### **1.F - Les différents types de visualisations**
+---
+
 
 Power Bi permet de se connecter à une multitude de sources de données, en voici quelques exemples : 
 
