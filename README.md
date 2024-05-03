@@ -37,7 +37,6 @@
 ![Power-BI-Cover](Pictures/power-bi-cover.jpg)
 
 
-
 ## **<p align="center">1. Veille sur Microsoft Power BI</p>**
 ---
 ### **<p align="center">1.A - Qu'est ce que Power BI ?</p>**
@@ -107,9 +106,6 @@ Power BI comprend également **deux autres éléments** :
 
 ### **<p align="center">1.F - Les différentes sources de données utilisables</p>**
 ---
-### **1.F - Les différents types de visualisations**
----
-
 
 Power Bi permet de se connecter à une multitude de sources de données, en voici quelques exemples : 
 
@@ -144,7 +140,7 @@ Power BI offre une variété de visualisations pour aider à représenter les do
 
 * **Graphiques en anneau :** Ils affichent la relation de parties par rapport à un tout.
 
-* **Graphiques en entonnoir :** Ils permettent de visualiser un processus comprenant des étapes et des éléments qui passent de manière séquentielle d'une étape à la suivante.
+* **Graphiques en entonnoir ** Ils permettent de visualiser un processus comprenant des étapes et des éléments qui passent de manière séquentielle d'une étape à la suivante.
 
 * **Graphiques en jauge :** Ils sont utilisés pour afficher des proportions ou des parts de marché. 
 
