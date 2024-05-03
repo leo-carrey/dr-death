@@ -35,7 +35,7 @@
 ---
 ---
 ![Power-BI-Cover](Pictures/power-bi-cover.jpg)
-![Power-BI-Cover](Pictures/power-bi-cover.jpg)
+
 
 
 ## **<p align="center">1. Veille sur Microsoft Power BI</p>**
@@ -144,7 +144,7 @@ Power BI offre une variété de visualisations pour aider à représenter les do
 
 * **Graphiques en anneau :** Ils affichent la relation de parties par rapport à un tout.
 
-* **Graphiques en entonnoir ** Ils permettent de visualiser un processus comprenant des étapes et des éléments qui passent de manière séquentielle d'une étape à la suivante.
+* **Graphiques en entonnoir :** Ils permettent de visualiser un processus comprenant des étapes et des éléments qui passent de manière séquentielle d'une étape à la suivante.
 
 * **Graphiques en jauge :** Ils sont utilisés pour afficher des proportions ou des parts de marché. 
 
