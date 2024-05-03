@@ -1,4 +1,4 @@
-# **<span style="color:grey;">Analyse de données des meurtres d'Harold Shipman</span>**
+# **<p align="center">Analyse de données des meurtres d'Harold Shipman</p>**
 
 <p align="center">
   <img src="Pictures\news-paper.jpg"/>
@@ -6,41 +6,41 @@
 
 ## **Sommaire**
 ---
-### **<span style="color:lightgreen;">1. Veille sur</span><span style="color:yellow;"> Microsoft Power BI</span>**
+### **1. Veille sur Microsoft Power BI**
 
-#### **<span style="color:lightblue;">1.A - Définitions</span>**
+#### **1.A - Définitions**
 
-##### **<span style="color:grey;">I.  Power BI</span>**
-##### **<span style="color:grey;">II. Power Query</span>**
-##### **<span style="color:grey;">III. Power APP</span>**
-##### **<span style="color:grey;">IV. Dashboard</span>**
+##### **I.  Power BI**
+##### **II. Power Query**
+##### **III. Power APP**
+##### **IV. Dashboard**
 
-#### **<span style="color:lightblue;">1.B - Avantages</span>**
+#### **1.B - Avantages**
 
-#### **<span style="color:lightblue;">1.C - Inconvénients</span>**
+#### **1.C - Inconvénients**
 
-#### **<span style="color:lightblue;">1.D - Principales fonctionnalités</span>**
+#### **1.D - Principales fonctionnalités**
 
-#### **<span style="color:lightblue;">1.E - Les différentes sources de données utilisables</span>**
+#### **1.E - Les différentes sources de données utilisables**
 
-#### **<span style="color:lightblue;">1.F - Les différents types de visualisations</span>**
+#### **1.F - Les différents types de visualisations**
 
-###  **<span style="color:lightgreen;">2. Contexte du projet</span>**
+###  **2. Contexte du projet**
 
-#### **<span style="color:lightblue;">2.A - Données utilisées</span>**
+#### **2.A - Données utilisées**
 
-#### **<span style="color:lightblue;">2.B - Problématique étudiée</span>** 
+#### **2.B - Problématique étudiée** 
 
-### **<span style="color:lightgreen;">3. Analyse des données</span>** 
+### **3. Analyse des données** 
 
-### **<span style="color:lightgreen;">4.  Conclusion</span>** 
+### **4.  Conclusion** 
 
 ---
 ---
 ![Power-BI-Cover](Pictures\power-bi-cover.jpg)
 
 
-## **<span style="color:lightgreen;">1. Veille sur</span><span style="color:yellow;"> Microsoft Power BI</span>**
+## **<p align="center">1. Veille sur Microsoft Power BI**
 ---
 ### **1.A - Définitions**
 ---
