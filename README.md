@@ -181,6 +181,9 @@ Ces visualisations peuvent être ajoutées à des rapports Power BI, spécifiée
 
 ---
 ---
+<p align="center">
+  <img src="Pictures/Shipman-context.jpg"/>
+</p>
 
 ##  **<p align="center">2. Contexte du projet</p>**
 ---
@@ -203,15 +206,19 @@ Une enquête publique fut ouverte pour tenter d'identifier d'autres crimes qu'il
 
 Harold Shipman est considéré comme l'un des tueurs en série les plus prolifique de l'histoire et ce cas témoigne de la fragilité de la ocnfiance et des conséquences dévastatrices de l'abus de pouvoir, ébranlant les ofndements mêmes de la profession médicale. 
  
-
 ### **<p align="center">2.A - Données utilisées</p>**
 ---
 
 Les données utilisées pour l'analyse sont les suivantes : 
 * Données des 215 victimes (date de décès, nom, age ...) : [Shipman-confirmed-victims.csv](Datasets/shipman-confirmed-victims.csv)
 * Données de l'heure à laquelle les patients de Shipman sont décédés comparée à l'heure à laquelle les patients d'autres médecins généraliste locaux sont décédés : [Shipman-times-comparison.csv](Datasets/shipman-times-comparison.csv)  
+
 ### **<p align="center">2.B - Problématique étudiée</p>** 
 ---
+
+<p align="center">
+  <img src="Pictures/shipman-questions.jpg"/>
+</p>
 
 Afin de mieux comprendre le comportement de Shipman, les premières questions à se poser suivent naturellement la méthode de questionnement et de diagnostique d'une situation ou d'une problématique "QQOQCCP" (Quoi, Qui, Où, Quand, Comment, Combien, Pourquoi), en découlera les questions fondamentales suivantes : 
 
@@ -221,8 +228,19 @@ Afin de mieux comprendre le comportement de Shipman, les premières questions à
 * De quelle manière les victimes sont-elles décédèes ? 
 * Combient sont-elles (avérées, soupçonnées) ?
 * Quel est le mobile ?
+
+
+---
+---
+
+<p align="center">
+  <img src="Pictures/data-analysis.jpg"/>
+</p>
+
 ## **<p align="center">3. Analyse des données</p>** 
 ---
+
+
 
 
 a faire !!!!!!
