@@ -50,11 +50,25 @@ Il s'agit d'un **ensemble de services logiciels, d'applications et de connecteur
 
 (source : [learn.microsoft.com](https://learn.microsoft.com/fr-fr/power-bi/fundamentals/power-bi-overview)).
 
+* Qu'est ce qu'un **insight** ?
+
+  * "Insight" est un terme anglais ayant plusieurs définitions en fonction du contexte : 
+
+    * Dans un **contexte généraliste** "insight" signifie le fait d'**apercevoir de façon soudaine la solution d'un problème, la structure d'une figure ou d'un objet perçu**.
+
+    * Dans le **domaine du marketing**, un "insight" est une **compréhension des besoins réels, exprimés consciemment ou non par les clients**. Il peut aussi être défni comme **une perspective centrée sur les besoins et les envies**.
+
+    * Un "insight" peut égalment être **une valeur ou un croyance qui déclenche l'acte d'achat ou de consommation**.
+
+    * Enfin, dans le **domaine de la publicité**, un "insight" est une **nouvelle vision commerciale sur la relation symbolique qui se noue entre une marque et son client potentiel**. 
+
+  * Les "insights" sont généralement le **résulat d'un étude approfondie, fondée sur l'observation, l'intuition, l'introspection et la déduction de différentes questions**. Ils sont essentiels pour **comprendre pourquoi la cible pense ce qu'elle pense, agit comme elle agit et ressent ce qu'elle ressent**.
+
 ### **<p align="center">1.B - Composants</p>**
 ---
 **Power BI** est constitué de plusieurs éléments qui fonctionnent ensemble, dont ces **trois éléments de base** :
 * Une application de bureau Windows appelée ***Power BI Desktop***.
-* Un service SaaS (Software as a Service) en ligne appelé ***service Power BI***.
+* Un service SaaS ([Software as a Service](https://www.lebigdata.fr/definition-saas)) en ligne appelé ***service Power BI***.
 * Des applications ***Power BI Mobile*** pour des appareils Windows, IOS et Android.
 
 Ces trois éléments (Power BI Desktop, le service et les applications mobiles) sont conçus pour permettre de **créer, partager et consommer de façon optimale des insights métier**, en fonction des besoins et des rôles des utilisateurs.
@@ -88,18 +102,18 @@ Power BI comprend également **deux autres éléments** :
 * Nombreuses mises à jour apportant de nouvelles fonctionnalités.
 ### **<p align="center">1.D - Inconvénients</p>**
 ---
-* Formules rigides, il est possible de créer de nouvelles données avec des formules mais il y a des limites. Il existe également une instruction concaténer, mais elle ne combine que deux éléments. POur en conbiner d'avantage, il faut imbriquer les insctructions concaténées. Lorsque les rapports vont au-delà de simples visualisations, Power BI devient plus difficile à utiliser. DAX n'est pas le plus souple des langages, mais il permet une multitude de calculs personalisés. Cependant, les résultats de ces calculs ne peuvent pas toujours être bien traduits visuellement.
+* Formules rigides, il est possible de créer de nouvelles données avec des formules mais il y a des limites. Il existe également une instruction concaténer, mais elle ne combine que deux éléments. Pour en conbiner d'avantage, il faut imbriquer les insctructions concaténées. Lorsque les rapports vont au-delà de simples visualisations, Power BI devient plus difficile à utiliser. [DAX](https://learn.microsoft.com/fr-fr/dax/dax-overview) n'est pas le plus souple des langages, mais il permet une multitude de calculs personalisés. Cependant, les résultats de ces calculs ne peuvent pas toujours être bien traduits visuellement.
 
 * Capacité de traitement des données pour les versions gratuites limité, si elle est atteinte, il faut passer à la version payante.
 
-* Configuration des visuels limités. 
+* Configuration des visuels limitée. 
 
 * Interface utilisateur très volumineuse.
 
 
 ### **<p align="center">1.E - Principales fonctionnalités</p>**
 ---
-* **Analyse de flux :** Power BI effectue des analuses des flux de données allant des capteurs d'usine aux médias sociaux permettant ainsi de faire une analyse en temps réel des données, facilitant ainsi la prise de décision. 
+* **Analyse de flux :** Power BI effectue des analyses des flux de données allant des capteurs d'usine aux médias sociaux permettant ainsi de faire une analyse en temps réel des données, facilitant ainsi la prise de décision. 
 
 * **Techniques modernes de visualisation des données :** Power BI offre des outils de visualisation des données qui permettent de créer des rapports et des tableaux de bord interactifs.
 
@@ -126,7 +140,7 @@ Power Bi permet de se connecter à une multitude de sources de données, en voic
 
 * <img src="Pictures/fichiers-plats.png" alt="drawing" width="100"/> **Fichiers plats :** Ce sont des fichiers de données structurées comme les fichiers Excel, CSV, XML, JSON, etc.
 
-* <img src="Pictures/sql-db.jpg" alt="drawing" width="100"/> **Base de données SQL :** SQL Server, Access, Oracle, IBM DB2, MySQL, PostgreSQL, Sybase, Teradata, SAP HANA, Amazon Redshift, Google BigQuery, etc.
+* <img src="Pictures/sql-db.jpg" alt="drawing" width="100"/> **Base de données SQL :** Une base de données SQL est un type de base de données qui utilise le langage SQL (Structured Query Language) pour gérer les données, particulièrement utile lorsque l'on travaille avec de grandes quantités de données structurées. SQL Server, Access, Oracle, IBM DB2, MySQL, PostgreSQL, Sybase, Teradata, SAP HANA, Amazon Redshift, Google BigQuery, etc.
 
 * <img src="Pictures/odata.png" alt="drawing" width="100"/> **Flux OData :** OData(Open Data Protocol) est un protocole ouvert permettant de consommer des données sur le web. Power BI peut se connecter à des services web utilisant ce protocole.
 
