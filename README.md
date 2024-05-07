@@ -178,3 +178,54 @@ Power BI offre une variété de visualisations pour aider à représenter les do
 * ![](Pictures/graphique-secteur.png) **Graphique en secteur :** Utilisé pour illustrer la proportion numérique de différentes catégories.
 
 Ces visualisations peuvent être ajoutées à des rapports Power BI, spécifiées dans Questions et réponses, et épinglées à des tablaux de bord. 
+
+---
+---
+
+##  **<p align="center">2. Contexte du projet</p>**
+---
+
+**[Harold Shipman](https://fr.wikipedia.org/wiki/Harold_Shipman)** était un médecin en apparence respecté exerçant à Hyde, dans le Grand Manchester. Derrière cette façade de médecin compétent, se cachait une sinistre vérité.
+
+Entre 1975 et 1998, il a injecté à au moins 215 de ses patients, pour la plupart agés, une dose massive d'opiacés amenant à des surdoses mortelles.
+
+Des soupçons ont été éveillés, par la fille avocate d'une de ses victimes, lorsqu'il commit l'erreur de falsifier le testament afin qu'une partie de l'héritage lui soit légué. 
+
+Une analyse de son ordinateur révéla qu'il modifiait rétrospectivement les dossiers de ses patients pour faire apparaître ses victimes plus malade qu'elles ne l'étaient réellement. 
+
+Shipman ne s'était pas rendu compte que chacune de ses modifications étaient horodatées.
+
+Des analyses sur quinze des victimes potentielles, celles-ci n'ayant pas étés incinérés, ont permis de déterminer que des doses mortelles d'héroïne, d'alcool et d'autres substances furent administrées.
+
+Shipman fut alors jugé pour quinze meutres en 1999. Il fut alors déclaré coupable et emprisoné à vie. 
+
+Une enquête publique fut ouverte pour tenter d'identifier d'autres crimes qu'il aurait pu commettre :  il avait bel et bien assassiné 215 personne. 
+
+Harold Shipman est considéré comme l'un des tueurs en série les plus prolifique de l'histoire et ce cas témoigne de la fragilité de la ocnfiance et des conséquences dévastatrices de l'abus de pouvoir, ébranlant les ofndements mêmes de la profession médicale. 
+ 
+
+### **<p align="center">2.A - Données utilisées</p>**
+---
+
+Les données utilisées pour l'analyse sont les suivantes : 
+* Données des 215 victimes (date de décès, nom, age ...) : [Shipman-confirmed-victims.csv](Datasets/shipman-confirmed-victims.csv)
+* Données de l'heure à laquelle les patients de Shipman sont décédés comparée à l'heure à laquelle les patients d'autres médecins généraliste locaux sont décédés : [Shipman-times-comparison.csv](Datasets/shipman-times-comparison.csv)  
+### **<p align="center">2.B - Problématique étudiée</p>** 
+---
+
+Afin de mieux comprendre le comportement de Shipman, les premières questions à se poser suivent naturellement la méthode de questionnement et de diagnostique d'une situation ou d'une problématique "QQOQCCP" (Quoi, Qui, Où, Quand, Comment, Combien, Pourquoi), en découlera les questions fondamentales suivantes : 
+
+* Quel est le profil type des victimes (age, genre ...) ? 
+* Quand sont-elles décédés (date, heure ...) ?
+* Où ont eut lieu les décès ?
+* De quelle manière les victimes sont-elles décédèes ? 
+* Combient sont-elles (avérées, soupçonnées) ?
+* Quel est le mobile ?
+## **<p align="center">3. Analyse des données</p>** 
+---
+
+
+a faire !!!!!!
+## **<p align="center">4.  Conclusion</p>** 
+---
+a faire !!!!!!
