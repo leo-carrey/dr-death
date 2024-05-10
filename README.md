@@ -6,7 +6,7 @@
 
 ## **Sommaire**
 ---
-### **1. Veille sur Microsoft Power BI**
+### **1. Veille de Microsoft Power BI**
 
 #### **1.A - Qu'est ce que Power BI ?**
 
