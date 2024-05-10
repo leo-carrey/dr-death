@@ -37,7 +37,7 @@
 ![Power-BI-Cover](Pictures/power-bi-cover.jpg)
 
 
-## **<p align="center">1. Veille sur Microsoft Power BI</p>**
+## **<p align="center">1. Veille de Microsoft Power BI</p>**
 ---
 ### **<p align="center">1.A - Qu'est ce que Power BI ?</p>**
 ---
