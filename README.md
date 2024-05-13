@@ -237,7 +237,7 @@ Afin de mieux comprendre le comportement de Shipman, les premières questions à
   <img src="Pictures/data-analysis.jpg"/>
 </p>
 
-## **<p align="center">3. Analyse des données</p>** 
+<!-- ## **<p align="center">3. Analyse des données</p>** 
 ---
 
 
@@ -246,4 +246,4 @@ Afin de mieux comprendre le comportement de Shipman, les premières questions à
 a faire !!!!!!
 ## **<p align="center">4.  Conclusion</p>** 
 ---
-a faire !!!!!!
+a faire !!!!!! -->
